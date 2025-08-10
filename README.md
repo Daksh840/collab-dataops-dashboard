@@ -159,7 +159,7 @@ npm run format
 
 ---
 
-> Built with ❤️ by [Your Name](https://github.com/daksh840)
+> Built with ❤️ by [Daksh Kumar Nahar](https://github.com/daksh840)
 
 ```
 
@@ -172,3 +172,4 @@ npm run format
 - 🧪 Add `requirements.txt` (if not done) for backend dependencies
 - 🧑‍💻 Push to GitHub and ensure all paths (like `/LICENSE`, `/screenshot.png`) resolve correctly  
 ```
+
